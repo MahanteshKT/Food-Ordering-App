@@ -1,6 +1,6 @@
 
-#App deployed Link:
-App deployed link:https://mahanteshkt.github.io/Food-Ordering-App/
+#**App deployed Link**
+https://mahanteshkt.github.io/Food-Ordering-App/
 
 
 
